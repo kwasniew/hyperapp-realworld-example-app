@@ -7,8 +7,7 @@
     "test:slow": "jest test/component",
     "coverage": "jest --coverage",
     "test:watch": "jest --watch",
-    "format": "prettier --write \"{src,__tests__}/**/*.js\"",
-    "lint": "eslint src/**/*.js"
+    "format": "prettier --write \"{src,__tests__}/**/*.js\""
   },
   "dependencies": {
     "@hyperapp/logger": "0.5.0",
