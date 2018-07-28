@@ -1,6 +1,5 @@
 import { h } from "hyperapp";
 import {
-  EDITOR,
   HOME,
   LOGIN,
   NEW_EDITOR,
@@ -8,9 +7,6 @@ import {
   SETTINGS,
   profileLink
 } from "../links";
-import { pathnameLens, userLens } from "../lenses";
-import view from "ramda/src/view";
-import isEmpty from "ramda/src/isEmpty";
 
 const active = (activePathname, path) => {
   return activePathname === path ? "active" : "";

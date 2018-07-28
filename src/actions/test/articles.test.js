@@ -22,7 +22,7 @@ test("load home page as anonymous", async () => {
     fetchGlobalFeed,
     fetchTags
   });
-  const main =  testApp({}, actions);
+  const main = testApp({}, actions);
 
   // when
   const result = main.loadHomePage();

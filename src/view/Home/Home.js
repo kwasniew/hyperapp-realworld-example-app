@@ -11,7 +11,8 @@ import {
   tagsLens,
   activeFeedLens,
   tokenLens,
-  isLoadingLens
+  isLoadingLens,
+  userLens
 } from "../../lenses";
 import view from "ramda/src/view";
 import { GLOBAL_FEED, USER_FEED } from "../../consts";
@@ -23,10 +24,11 @@ const Home = ({ state, actions }) => {
   const tags = view(tagsLens, state);
   const token = view(tokenLens, state);
   const isLoading = view(isLoadingLens, state);
+  const currentUser = view(userLens, state);
 
   return (
     <div class="home-page" key="home-page">
-      <Banner />
+      {currentUser ? "" : <Banner />}
 
       <div class="container page">
         <div class="row">
