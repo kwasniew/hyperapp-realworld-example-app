@@ -1,0 +1,1 @@
+export default {"errors": {"email or password": ["is invalid"]}}

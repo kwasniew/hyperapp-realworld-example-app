@@ -1,0 +1,1662 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`global feed 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/login\\">Sign in</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/register\\">Sign up</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"home-page\\">
+    <div class=\\"banner\\">
+      <div class=\\"container\\">
+        <h1 class=\\"logo-font\\">conduit</h1>
+        <p>A place to share your knowledge.</p>
+      </div>
+    </div>
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-9\\">
+          <div class=\\"feed-toggle\\">
+            <ul class=\\"nav nav-pills outline-active\\">
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link active\\">Global Feed</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/saeed\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"saeed\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/saeed\\">saeed</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/saeed-jetu0l\\" class=\\"preview-link\\">
+                <h1>saeed</h1>
+                <p>saeeedd</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/cuong123456\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"cuong123456\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/cuong123456\\">cuong123456</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/dfasdf-n203v9\\" class=\\"preview-link\\">
+                <h1>dfasdf</h1>
+                <p>abc</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/joewhatuser\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"joewhatuser\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/joewhatuser\\">joewhatuser</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/how-to-train-your-dragon-970bif\\" class=\\"preview-link\\">
+                <h1>How to train your dragon</h1>
+                <p>Ever wonder how?</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/tuantuantuandz\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"tuantuantuandz\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/tuantuantuandz\\">tuantuantuandz</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/aaaaa-nni2cq\\" class=\\"preview-link\\">
+                <h1>AAAAA</h1>
+                <p>B BBB</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/drbuck10\\">
+                  <img src=\\"https://i.kinja-img.com/gawker-media/image/upload/s--VRgSmL1i--/c_scale,f_auto,fl_progressive,q_80,w_800/wsvqhc42bnocrsetkizw.jpg\\" alt=\\"drbuck10\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/drbuck10\\">drbuck10</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/hello-there-mxjqcq\\" class=\\"preview-link\\">
+                <h1>Hello There</h1>
+                <p>My name is....</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/yop singh\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"yop singh\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/yop singh\\">yop singh</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/abc-gnnxa3\\" class=\\"preview-link\\">
+                <h1>ABC</h1>
+                <p>abc</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/testdsfsdfsdf\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"testdsfsdfsdf\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/testdsfsdfsdf\\">testdsfsdfsdf</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/df-ykdtoo\\" class=\\"preview-link\\">
+                <h1>df</h1>
+                <p>sdf</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/drc\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"drc\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/drc\\">drc</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/article-new-q8efhz\\" class=\\"preview-link\\">
+                <h1>Article New</h1>
+                <p>Nice Example for VueJs</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">javascript</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">frontend</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">VueJS</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/kolibreath\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"kolibreath\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/kolibreath\\">kolibreath</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/testing-d0nqzg\\" class=\\"preview-link\\">
+                <h1>Testing</h1>
+                <p>attention please</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/qaudaffyazmi\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"qaudaffyazmi\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/qaudaffyazmi\\">qaudaffyazmi</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/erwr-zw7p09\\" class=\\"preview-link\\">
+                <h1>erwr</h1>
+                <p>werew</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <nav>
+              <ul class=\\"pagination\\">
+                <li class=\\"page-item active\\">
+                  <a class=\\"page-link\\" href=\\"\\">1</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">2</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">3</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">4</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">5</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">6</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">7</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">8</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">9</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">10</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">11</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">12</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">13</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">14</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">15</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">16</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">17</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">18</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">19</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">20</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">21</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">22</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">23</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">24</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">25</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">26</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">27</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">28</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">29</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">30</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">31</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">32</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">33</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">34</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">35</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">36</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">37</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">38</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">39</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">40</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">41</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">42</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">43</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">44</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">45</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">46</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">47</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">48</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">49</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">50</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div class=\\"col-md-3\\">
+          <div class=\\"sidebar\\">
+            <p>Popular Tags</p>
+            <div class=\\"tag-list\\">
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">dragons</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">training</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">test</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">tags</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">as</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">coffee</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">flowers</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sushi</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">money</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cookies</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">happiness</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cars</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">well</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">japan</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">caramel</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">animation</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">clean</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sugar</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">baby</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`global feed pagination 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/login\\">Sign in</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/register\\">Sign up</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"home-page\\">
+    <div class=\\"banner\\">
+      <div class=\\"container\\">
+        <h1 class=\\"logo-font\\">conduit</h1>
+        <p>A place to share your knowledge.</p>
+      </div>
+    </div>
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-9\\">
+          <div class=\\"feed-toggle\\">
+            <ul class=\\"nav nav-pills outline-active\\">
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link active\\">Global Feed</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/a-gf8agp\\" class=\\"preview-link\\">
+                <h1>a</h1>
+                <p>b</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/manikanta6264\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"manikanta6264\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/manikanta6264\\">manikanta6264</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/hello-6x6wqw\\" class=\\"preview-link\\">
+                <h1>Hello</h1>
+                <p>For Online Learners</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/a-4lnea\\" class=\\"preview-link\\">
+                <h1>a</h1>
+                <p>b</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/a-gjspn6\\" class=\\"preview-link\\">
+                <h1>a</h1>
+                <p>b</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/title-dkbeso\\" class=\\"preview-link\\">
+                <h1>title</h1>
+                <p>desc</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/kaweesha\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"kaweesha\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/kaweesha\\">kaweesha</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/intelligent-traffic-light-3rk5v\\" class=\\"preview-link\\">
+                <h1>Intelligent Traffic Light</h1>
+                <p>control traffic on roads</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/fgn\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"fgn\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/fgn\\">fgn</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/sdfg-gq6wfe\\" class=\\"preview-link\\">
+                <h1>sdfg</h1>
+                <p>zdg</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/bgiggus\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"bgiggus\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/bgiggus\\">bgiggus</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 1</button>
+              </div>
+              <a href=\\"/article/testarticle11-cz87ng\\" class=\\"preview-link\\">
+                <h1>TestArticle11</h1>
+                <p>QA Article</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/test234443\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"test234443\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/test234443\\">test234443</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/article-4ul0sd\\" class=\\"preview-link\\">
+                <h1>article</h1>
+                <p>testing the article</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">tag2</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tag1</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/qwertyzxcvb\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"qwertyzxcvb\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/qwertyzxcvb\\">qwertyzxcvb</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/privet-blet-z1kcfz\\" class=\\"preview-link\\">
+                <h1>Privet blet</h1>
+                <p>About you</p><span>Read more...</span>
+                <ul class=\\"tag-list\\"></ul>
+              </a>
+            </div>
+            <nav>
+              <ul class=\\"pagination\\">
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">1</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">2</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">3</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">4</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">5</a>
+                </li>
+                <li class=\\"page-item active\\">
+                  <a class=\\"page-link\\" href=\\"\\">6</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">7</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">8</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">9</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">10</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">11</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">12</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">13</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">14</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">15</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">16</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">17</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">18</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">19</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">20</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">21</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">22</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">23</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">24</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">25</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">26</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">27</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">28</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">29</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">30</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">31</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">32</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">33</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">34</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">35</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">36</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">37</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">38</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">39</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">40</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">41</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">42</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">43</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">44</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">45</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">46</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">47</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">48</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">49</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">50</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div class=\\"col-md-3\\">
+          <div class=\\"sidebar\\">
+            <p>Popular Tags</p>
+            <div class=\\"tag-list\\">
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">dragons</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">training</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">test</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">tags</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">as</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">coffee</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">flowers</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sushi</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">money</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cookies</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">happiness</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cars</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">well</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">japan</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">caramel</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">animation</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">clean</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sugar</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">baby</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`log in failure 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/login\\">Sign in</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/register\\">Sign up</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"auth-page\\">
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-6 offset-md-3 col-xs-12\\">
+          <h1 class=\\"text-xs-center\\">Sign In</h1>
+          <p class=\\"text-xs-center\\">
+            <a href=\\"/register\\">Need an account?</a>
+          </p>
+          <ul class=\\"error-messages\\">
+            <li>email or password is invalid</li>
+          </ul>
+          <form>
+            <fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"email\\" placeholder=\\"Email\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"password\\" placeholder=\\"Password\\">
+              </fieldset>
+              <button class=\\"btn btn-lg btn-primary pull-xs-right\\" type=\\"submit\\">Sign in</button>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`log in success 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/editor\\">
+            <i class=\\"ion-compose\\"></i>&nbsp;New Post</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/settings\\">
+            <i class=\\"ion-gear-a\\"></i>&nbsp;Settings</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/profile/testuser\\">
+            <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" class=\\"user-pic\\" alt=\\"testuser\\">testuser</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"home-page\\">
+    <div class=\\"banner\\">
+      <div class=\\"container\\">
+        <h1 class=\\"logo-font\\">conduit</h1>
+        <p>A place to share your knowledge.</p>
+      </div>
+    </div>
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-9\\">
+          <div class=\\"feed-toggle\\">
+            <ul class=\\"nav nav-pills outline-active\\">
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link active\\">Your Feed</a>
+              </li>
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link\\">Global Feed</a>
+              </li>
+            </ul>
+          </div>
+          <div class=\\"article-preview\\">No articles are here... yet.</div>
+        </div>
+        <div class=\\"col-md-3\\">
+          <div class=\\"sidebar\\">
+            <p>Popular Tags</p>
+            <div class=\\"tag-list\\">
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">dragons</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">training</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">test</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">tags</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">as</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">coffee</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">flowers</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sushi</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">money</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cookies</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">happiness</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cars</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">well</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">japan</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">caramel</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">animation</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">clean</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sugar</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">baby</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`navigate to sign up 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/login\\">Sign in</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/register\\">Sign up</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"auth-page\\">
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-6 offset-md-3 col-xs-12\\">
+          <h1 class=\\"text-xs-center\\">Sign Up</h1>
+          <p class=\\"text-xs-center\\">
+            <a href=\\"/login\\">Have an account?</a>
+          </p>
+          <ul class=\\"error-messages\\"></ul>
+          <form>
+            <fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"text\\" placeholder=\\"Username\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"email\\" placeholder=\\"Email\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"password\\" placeholder=\\"Password\\">
+              </fieldset>
+              <button class=\\"btn btn-lg btn-primary pull-xs-right\\" type=\\"submit\\">Sign up</button>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`post creation failure 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/editor\\">
+            <i class=\\"ion-compose\\"></i>&nbsp;New Post</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/settings\\">
+            <i class=\\"ion-gear-a\\"></i>&nbsp;Settings</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/profile/testuser\\">
+            <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" class=\\"user-pic\\" alt=\\"testuser\\">testuser</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"editor-page\\">
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-10 offset-md-1 col-xs-12\\">
+          <ul class=\\"error-messages\\">
+            <li>title can't be blank and is too short (minimum is 1 character)</li>
+            <li>body can't be blank</li>
+            <li>description can't be blank and is too short (minimum is 1 character)</li>
+          </ul>
+          <form>
+            <fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"text\\" placeholder=\\"Article Title\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control\\" type=\\"text\\" placeholder=\\"What's this article about?\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <textarea class=\\"form-control\\" rows=\\"8\\" placeholder=\\"Write your article (in markdown)\\"></textarea>
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control\\" type=\\"text\\" placeholder=\\"Enter tags\\">
+                <div class=\\"tag-list\\"></div>
+              </fieldset>
+              <button class=\\"btn btn-lg pull-xs-right btn-primary\\" type=\\"button\\">Publish Article</button>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`sign up failure 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/login\\">Sign in</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/register\\">Sign up</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"auth-page\\">
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-6 offset-md-3 col-xs-12\\">
+          <h1 class=\\"text-xs-center\\">Sign Up</h1>
+          <p class=\\"text-xs-center\\">
+            <a href=\\"/login\\">Have an account?</a>
+          </p>
+          <ul class=\\"error-messages\\">
+            <li>email can't be blank</li>
+            <li>password can't be blank</li>
+            <li>username can't be blank and is too short (minimum is 1 character)</li>
+          </ul>
+          <form>
+            <fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"text\\" placeholder=\\"Username\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"email\\" placeholder=\\"Email\\">
+              </fieldset>
+              <fieldset class=\\"form-group\\">
+                <input class=\\"form-control form-control-lg\\" type=\\"password\\" placeholder=\\"Password\\">
+              </fieldset>
+              <button class=\\"btn btn-lg btn-primary pull-xs-right\\" type=\\"submit\\">Sign up</button>
+            </fieldset>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`sign up success 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/editor\\">
+            <i class=\\"ion-compose\\"></i>&nbsp;New Post</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/settings\\">
+            <i class=\\"ion-gear-a\\"></i>&nbsp;Settings</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/profile/testuser\\">testuser</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"home-page\\">
+    <div class=\\"banner\\">
+      <div class=\\"container\\">
+        <h1 class=\\"logo-font\\">conduit</h1>
+        <p>A place to share your knowledge.</p>
+      </div>
+    </div>
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-9\\">
+          <div class=\\"feed-toggle\\">
+            <ul class=\\"nav nav-pills outline-active\\">
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link active\\">Your Feed</a>
+              </li>
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link\\">Global Feed</a>
+              </li>
+            </ul>
+          </div>
+          <div class=\\"article-preview\\">No articles are here... yet.</div>
+        </div>
+        <div class=\\"col-md-3\\">
+          <div class=\\"sidebar\\">
+            <p>Popular Tags</p>
+            <div class=\\"tag-list\\">
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">dragons</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">training</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">test</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">tags</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">as</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">coffee</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">flowers</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sushi</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">money</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cookies</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">happiness</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cars</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">well</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">japan</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">caramel</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">animation</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">clean</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sugar</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">baby</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`tag feed 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/login\\">Sign in</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/register\\">Sign up</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"home-page\\">
+    <div class=\\"banner\\">
+      <div class=\\"container\\">
+        <h1 class=\\"logo-font\\">conduit</h1>
+        <p>A place to share your knowledge.</p>
+      </div>
+    </div>
+    <div class=\\"container page\\">
+      <div class=\\"row\\">
+        <div class=\\"col-md-9\\">
+          <div class=\\"feed-toggle\\">
+            <ul class=\\"nav nav-pills outline-active\\">
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link\\">Global Feed</a>
+              </li>
+              <li class=\\"nav-item\\">
+                <a href=\\"\\" class=\\"nav-link active\\">
+                  <i class=\\"ion-pound\\"></i> sushi</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/uroskrunic\\">
+                  <img src=\\"https://images-na.ssl-images-amazon.com/images/I/617I2AGeW5L.jpg\\" alt=\\"uroskrunic\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/uroskrunic\\">uroskrunic</a><span class=\\"date\\">Sun Jul 08 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 11</button>
+              </div>
+              <a href=\\"/article/dragon-baby-ctqn0i\\" class=\\"preview-link\\">
+                <h1>Dragon baby</h1>
+                <p>Article about dragon baby</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">test</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/jldiaz\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"jldiaz\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/jldiaz\\">jldiaz</a><span class=\\"date\\">Wed Jun 13 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 0</button>
+              </div>
+              <a href=\\"/article/inglip-pgg2lz\\" class=\\"preview-link\\">
+                <h1>Inglip</h1>
+                <p>Inglip</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">inglip</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Thu May 24 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 42</button>
+              </div>
+              <a href=\\"/article/dasdas-vzt4wj\\" class=\\"preview-link\\">
+                <h1>dasdas</h1>
+                <p>dasdas</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">test</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Wed May 23 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 30</button>
+              </div>
+              <a href=\\"/article/titile-8n5lda\\" class=\\"preview-link\\">
+                <h1>Titile</h1>
+                <p>desc</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">test</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Wed May 23 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 15</button>
+              </div>
+              <a href=\\"/article/titile-xsrs7t\\" class=\\"preview-link\\">
+                <h1>Titile</h1>
+                <p>desc</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">test</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Wed May 23 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 7</button>
+              </div>
+              <a href=\\"/article/titile-ecij0h\\" class=\\"preview-link\\">
+                <h1>Titile</h1>
+                <p>desc</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">test</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Thu May 10 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 18</button>
+              </div>
+              <a href=\\"/article/abcd-4goken\\" class=\\"preview-link\\">
+                <h1>abcd</h1>
+                <p>abcd</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">test</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">training</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">dragons</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/RedFeet\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"RedFeet\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/RedFeet\\">RedFeet</a><span class=\\"date\\">Thu Apr 05 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 3</button>
+              </div>
+              <a href=\\"/article/yesterday-82d6dx\\" class=\\"preview-link\\">
+                <h1>Yesterday!</h1>
+                <p>The day before...</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">fart alert</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">nerds</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/tshepo\\">
+                  <img src=\\"http://res.cloudinary.com/htdnfcfy5/image/upload/v1519328877/thugg_and_lilly.jpg\\" alt=\\"tshepo\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/tshepo\\">tshepo</a><span class=\\"date\\">Thu Feb 22 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 4</button>
+              </div>
+              <a href=\\"/article/palesa-playette-e9xnw3\\" class=\\"preview-link\\">
+                <h1>Palesa Playette</h1>
+                <p>Most amazing girl in the world</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">beautiful</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">Love</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                </ul>
+              </a>
+            </div>
+            <div class=\\"article-preview\\">
+              <div class=\\"article-meta\\">
+                <a href=\\"/profile/A3Nv3Dd5SW\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"A3Nv3Dd5SW\\">
+                </a>
+                <div class=\\"info\\">
+                  <a class=\\"author\\" href=\\"/profile/A3Nv3Dd5SW\\">A3Nv3Dd5SW</a><span class=\\"date\\">Mon Jan 22 2018</span></div>
+                <button class=\\"btn btn-sm btn-outline-primary pull-xs-right\\">
+                  <i class=\\"ion-heart\\"></i> 98</button>
+              </div>
+              <a href=\\"/article/remove-those-bad-words-crvsne\\" class=\\"preview-link\\">
+                <h1>Remove those bad words</h1>
+                <p>cleaning out</p><span>Read more...</span>
+                <ul class=\\"tag-list\\">
+                  <li class=\\"tag-default tag-pill tag-outline\\">animation</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">baby</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">money</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">japan</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">happiness</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sushi</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">caramel</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cookies</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">coffee</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">sugar</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">flowers</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">cars</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">well</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">as</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">tags</li>
+                  <li class=\\"tag-default tag-pill tag-outline\\">clean</li>
+                </ul>
+              </a>
+            </div>
+            <nav>
+              <ul class=\\"pagination\\">
+                <li class=\\"page-item active\\">
+                  <a class=\\"page-link\\" href=\\"\\">1</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">2</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">3</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">4</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">5</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">6</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">7</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">8</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">9</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">10</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">11</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">12</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">13</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">14</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">15</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">16</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">17</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">18</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">19</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">20</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">21</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">22</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">23</a>
+                </li>
+                <li class=\\"page-item\\">
+                  <a class=\\"page-link\\" href=\\"\\">24</a>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <div class=\\"col-md-3\\">
+          <div class=\\"sidebar\\">
+            <p>Popular Tags</p>
+            <div class=\\"tag-list\\">
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">dragons</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">training</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">test</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">tags</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">as</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">coffee</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">flowers</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sushi</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">money</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cookies</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">happiness</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">cars</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">well</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">japan</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">caramel</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">animation</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">clean</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">sugar</a>
+              <a href=\\"\\" class=\\"tag-pill tag-default\\">baby</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
+
+exports[`user profile page with empty feed 1`] = `
+"<div>
+  <nav class=\\"navbar navbar-light\\">
+    <div class=\\"container\\">
+      <a class=\\"navbar-brand\\" href=\\"/\\">conduit</a>
+      <ul class=\\"nav navbar-nav pull-xs-right\\">
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/\\">Home</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/editor\\">
+            <i class=\\"ion-compose\\"></i>&nbsp;New Post</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link \\" href=\\"/settings\\">
+            <i class=\\"ion-gear-a\\"></i>&nbsp;Settings</a>
+        </li>
+        <li class=\\"nav-item\\">
+          <a class=\\"nav-link active\\" href=\\"/profile/testuser\\">
+            <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" class=\\"user-pic\\" alt=\\"testuser\\">testuser</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class=\\"profile-page\\">
+    <div>
+      <div class=\\"user-info\\">
+        <div class=\\"container\\">
+          <div class=\\"row\\">
+            <div class=\\"col-xs-12 col-md-10 offset-md-1\\">
+              <img class=\\"user-img\\" src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser\\">
+              <h4>testuser</h4>
+              <p>This is a long story </p>
+              <a href=\\"/settings\\" class=\\"btn btn-sm btn-outline-secondary action-btn\\">
+                <i class=\\"ion-gear-a\\"></i> Edit Profile Settings</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class=\\"container\\">
+        <div class=\\"row\\">
+          <div class=\\"col-xs-12 col-md-10 offset-md-1\\">
+            <div class=\\"articles-toggle\\">
+              <ul class=\\"nav nav-pills outline-active\\">
+                <li class=\\"nav-item\\">
+                  <a class=\\"nav-link active\\" href=\\"/profile/testuser\\">My Articles</a>
+                </li>
+                <li class=\\"nav-item\\">
+                  <a class=\\"nav-link\\" href=\\"/profile/testuser/favorited\\">Favorited Articles</a>
+                </li>
+              </ul>
+            </div>
+            <div class=\\"article-preview\\">No articles are here... yet.</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;
