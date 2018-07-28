@@ -20,7 +20,6 @@
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "babel-plugin-transform-react-jsx": "6.24.1",
-    "chance": "1.0.16",
     "dom-testing-library": "3.0.0",
     "jest": "23.3.0",
     "jest-dom": "1.8.1",
