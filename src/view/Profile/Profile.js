@@ -125,8 +125,6 @@ const Profile = ({ type, state, actions }) => {
                   articlesCount={articlesCount}
                   currentPage={currentPage}
                   changePage={actions.changeUserPage}
-                  openArticle={actions.openArticle}
-                  openProfile={actions.openProfile}
                   favorite={actions.favorite}
                   unfavorite={actions.unfavorite}
                   isLoading={isLoading}
