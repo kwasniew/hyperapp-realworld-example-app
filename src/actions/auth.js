@@ -24,7 +24,7 @@ const DEFAULT_REGISTER = {
   name: REGISTER_PAGE
 };
 
-const actionsFactory = ({ login, register, fetchUser, sessionRepository }) => {
+const actionsFactory = ({ login, register, sessionRepository }) => {
   const handleLoginForm = handleUserForm(state => {
     const { email, password } = view(pageLens, state);
     return login({ email, password });

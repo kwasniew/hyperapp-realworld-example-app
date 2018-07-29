@@ -53,7 +53,6 @@ export default function init({ localStorage, fetch, location }) {
   const authActions = authActionsFactory({
     login,
     register,
-    fetchUser,
     sessionRepository
   });
   const articlesActions = articlesActionsFactory({
