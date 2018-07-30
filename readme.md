@@ -181,7 +181,7 @@ Snapshots don't capture user intent very well but on the other hand are really c
 as the role of this tests will be to provide coarse grained verification.
 As the code grows we can add page objects/screenplays/another technique du jour in the testing world.
 
-### Fast: Integration/unit tests
+### Fast: Unit tests
 
 ```npm run test:fast```
 
@@ -195,6 +195,8 @@ The test format follows this template:
 
 Some state transitions are two step. First we get immediate and synchronous state transition. Then it's followed by the async state transition.
 Each async action returns a promise allowing the test code to wait for it.  
+
+For IO and modules I'm interacting with I use manually written test doubles (I personally find no need for mocking library in JS). 
 
 # Getting started
 
