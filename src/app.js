@@ -15,8 +15,16 @@ import sharedActionsFactory from "./actions/shared";
 import routerActions from "./actions/router";
 import view from "./view";
 
-export default function init({ localStorage, fetch, location }) {
-  const sessionRepository = sessionRepositoryFactory(localStorage);
+export default function init({
+  localStorage,
+  fetch,
+  location,
+  addEventListener
+}) {
+  const sessionRepository = sessionRepositoryFactory(
+    localStorage,
+    addEventListener
+  );
   const {
     fetchGlobalFeed,
     fetchUserFeed,
@@ -99,6 +107,7 @@ export default function init({ localStorage, fetch, location }) {
   const unsubscribe = locationModule.subscribe(main.location);
   addEventListener("popstate", () => main.setRoute(location.pathname));
   main.loadPage(location.pathname);
+  sessionRepository.onChange(main.setUser);
 
   return { main, unsubscribe };
 }

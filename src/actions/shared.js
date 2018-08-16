@@ -28,8 +28,11 @@ const sharedActions = ({ sessionRepository }) => ({
   setPage: page => state => {
     return set(pageLens, page, state);
   },
-  setUser: user => state => {
+  saveUser: user => (state, actions) => {
     sessionRepository.save(user);
+    actions.setUser(user);
+  },
+  setUser: user => state => {
     return set(userLens, user, state);
   },
   getState: () => state => {

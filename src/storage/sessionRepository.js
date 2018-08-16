@@ -1,5 +1,8 @@
-export default function sessionRepositoryFactory(localStorage) {
-  return {
+export default function sessionRepositoryFactory(
+  localStorage,
+  addEventListener
+) {
+  const api = {
     save(user) {
       try {
         localStorage.setItem("session", JSON.stringify(user));
@@ -20,6 +23,19 @@ export default function sessionRepositoryFactory(localStorage) {
       } catch (e) {
         // console.error(e);
       }
+    },
+    onChange(callback) {
+      addEventListener(
+        "storage",
+        function(event) {
+          if (event.storageArea === localStorage && event.key === "session") {
+            callback(api.load());
+          }
+        },
+        false
+      );
     }
   };
+
+  return api;
 }

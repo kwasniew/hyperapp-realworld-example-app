@@ -12,7 +12,7 @@ export const withErrorHandling = fn => (state, actions) => {
 export const handleUserForm = fn =>
   withErrorHandling((state, actions) => {
     return fn(state).then(data => {
-      actions.setUser(data.user);
+      actions.saveUser(data.user);
       return actions.loadPage(HOME);
     });
   });

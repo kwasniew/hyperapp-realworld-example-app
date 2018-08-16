@@ -55,7 +55,8 @@ const withApp = ({ localStorage, fetch, initPath = "/" }) => async testBody => {
   const { unsubscribe, main } = init({
     localStorage,
     fetch,
-    location: window.location
+    location: window.location,
+    addEventListener: window.addEventListener
   });
   try {
     await testBody(main);

@@ -30,7 +30,7 @@ const actionsFactory = ({ updateSettings, fetchUser }) => {
     },
     fetchUser: () => (state, actions) => {
       return fetchUser().then(data => {
-        actions.setUser(data.user);
+        actions.saveUser(data.user);
         actions.setSettingsFields(data.user);
       });
     },
