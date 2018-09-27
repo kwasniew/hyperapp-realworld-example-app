@@ -206,7 +206,7 @@ test("change tab", async () => {
   });
 });
 
-test("favorite article", async () => {
+test("favorite article as logged in user", async () => {
   // given
   const favoriteArticle = arg => {
     favoriteArticle.invokedWith = arg;
@@ -225,6 +225,11 @@ test("favorite article", async () => {
             { slug: "slug2", favoritesCount: 49 }
           ]
         }
+      }
+    },
+    session: {
+      user: {
+        token: "valid"
       }
     }
   };
@@ -250,4 +255,29 @@ test("favorite article", async () => {
       }
     }
   });
+});
+
+test("favorite article as anonymous user", async () => {
+  // given
+  const actions = articlesActionsFactory({});
+  const state = {
+    page: {
+      feed: {
+        feed: {
+          articles: [
+            { slug: "slug1", favoritesCount: 0 },
+            { slug: "slug2", favoritesCount: 49 }
+          ]
+        }
+      }
+    }
+  };
+  const loadPage = path => (loadPage.invokedWith = path);
+  const main = testApp(state, { ...actions, loadPage });
+
+  // when
+  main.favorite("slug2");
+
+  // then
+  expect(loadPage.invokedWith).toEqual("/login");
 });

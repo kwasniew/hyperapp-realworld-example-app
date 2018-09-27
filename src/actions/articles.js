@@ -19,6 +19,7 @@ import {
   tokenLens
 } from "../lenses";
 import map from "ramda/src/map";
+import { LOGIN } from "../links";
 import { FEED, DEFAULT_ARTICLES } from "./shared";
 
 const DEFAULT_ARTICLES_PAGE = active => ({
@@ -66,9 +67,11 @@ const actionsFactory = ({
     return fetchTags().then(data => actions.setTags(data.tags));
   },
   favorite: slug => (state, actions) => {
-    return favoriteArticle({
-      slug
-    }).then(data => actions.updateSingleArticle(data.article));
+    return view(tokenLens, state)
+      ? favoriteArticle({
+          slug
+        }).then(data => actions.updateSingleArticle(data.article))
+      : actions.loadPage(LOGIN);
   },
   unfavorite: slug => (state, actions) => {
     return unfavoriteArticle({

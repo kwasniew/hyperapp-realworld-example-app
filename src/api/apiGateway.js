@@ -79,7 +79,6 @@ const apiGateway = (fetch, sessionRepository) => {
   const favoriteArticle = ({ slug }) => post(`/articles/${slug}/favorite`);
   const unfavoriteArticle = ({ slug }) => del(`/articles/${slug}/favorite`);
   const saveArticle = ({ ...article }) => post("/articles", { article });
-  // const saveArticle = ({ ...article }) => Promise.resolve({errors: {serverError: [": cannot process request"]}});
   const deleteArticle = ({ slug }) => del(`/articles/${slug}`);
   const fetchArticle = ({ slug }) => get(`/articles/${slug}`);
 
