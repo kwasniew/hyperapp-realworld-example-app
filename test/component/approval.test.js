@@ -73,8 +73,8 @@ test("global feed", async () => {
   );
   await withApp({ localStorage, fetch })(async () => {
     await wait(() => {
-      expect(element(ARTICLE_PREVIEW)()).toBeInTheDOM();
-      expect(element(TAG)()).toBeInTheDOM();
+      expect(element(ARTICLE_PREVIEW)()).toBeInTheDocument();
+      expect(element(TAG)()).toBeInTheDocument();
     });
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
@@ -89,14 +89,14 @@ test("global feed pagination", async () => {
   );
   await withApp({ localStorage, fetch })(async () => {
     await wait(() => {
-      expect(element(ARTICLE_PREVIEW)()).toBeInTheDOM();
-      expect(element(TAG)()).toBeInTheDOM();
+      expect(element(ARTICLE_PREVIEW)()).toBeInTheDocument();
+      expect(element(TAG)()).toBeInTheDocument();
     });
 
     click(getByText(document.body, "6"));
 
     await wait(() =>
-      expect(elementWithValue(PAGINATION_LINK, "6")()).toBeInTheDOM()
+      expect(elementWithValue(PAGINATION_LINK, "6")()).toBeInTheDocument()
     );
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
@@ -136,7 +136,7 @@ test("navigate to sign up", async () => {
     click(signUpLink);
 
     await wait(
-      () => expect(elementWithValue(BUTTON, "Sign up")()).toBeInTheDOM
+      () => expect(elementWithValue(BUTTON, "Sign up")()).toBeInTheDocument
     );
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
@@ -167,9 +167,9 @@ test("sign up failure", async () => {
     click(signUpButton);
 
     await wait(
-      () => elementWithValue(DISABLED_BUTTON, "Sign up")().toBeInTheDOM
+      () => elementWithValue(DISABLED_BUTTON, "Sign up")().toBeInTheDocument
     );
-    await wait(() => element(ERRORS)().toBeInTheDOM);
+    await wait(() => element(ERRORS)().toBeInTheDocument);
 
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
@@ -216,8 +216,8 @@ test("sign up success", async () => {
     await wait(() => {
       expect(
         elementWithValue(ARTICLE_PREVIEW, "No articles are here... yet.")()
-      ).toBeInTheDOM();
-      expect(element(TAG)()).toBeInTheDOM();
+      ).toBeInTheDocument();
+      expect(element(TAG)()).toBeInTheDocument();
     });
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
@@ -249,9 +249,9 @@ test("log in failure", async () => {
     click(signInButton);
 
     await wait(
-      () => elementWithValue(DISABLED_BUTTON, "Sign in")().toBeInTheDOM
+      () => elementWithValue(DISABLED_BUTTON, "Sign in")().toBeInTheDocument
     );
-    await wait(() => element(ERRORS)().toBeInTheDOM);
+    await wait(() => element(ERRORS)().toBeInTheDocument);
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
 });
@@ -297,8 +297,8 @@ test("log in success", async () => {
     await wait(() => {
       expect(
         elementWithValue(ARTICLE_PREVIEW, "No articles are here... yet.")()
-      ).toBeInTheDOM();
-      expect(element(TAG)()).toBeInTheDOM();
+      ).toBeInTheDocument();
+      expect(element(TAG)()).toBeInTheDocument();
     });
 
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
@@ -332,10 +332,10 @@ test("user profile page with empty feed", async () => {
   await withApp({ localStorage, fetch, initPath: "/profile/testuser" })(
     async () => {
       await wait(() => {
-        expect(element(USER_INFO)()).toBeInTheDOM();
+        expect(element(USER_INFO)()).toBeInTheDocument();
         expect(
           elementWithValue(ARTICLE_PREVIEW, "No articles are here... yet.")()
-        ).toBeInTheDOM();
+        ).toBeInTheDocument();
       });
 
       expect(pretty(document.body.innerHTML)).toMatchSnapshot();
@@ -375,9 +375,9 @@ test("post creation failure", async () => {
     await wait(() =>
       expect(
         elementWithValue(DISABLED_BUTTON, "Publish Article")()
-      ).toBeInTheDOM()
+      ).toBeInTheDocument()
     );
-    await wait(() => expect(element(ERRORS)()).toBeInTheDOM());
+    await wait(() => expect(element(ERRORS)()).toBeInTheDocument());
     expect(pretty(document.body.innerHTML)).toMatchSnapshot();
   });
 });
