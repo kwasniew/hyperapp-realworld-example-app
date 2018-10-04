@@ -30,7 +30,7 @@ const ArticlePreview = ({ article, favorite, unfavorite }) => (
   <div class="article-preview">
     <div class="article-meta">
       <a href={profileLink(article.author.username)}>
-        <img src={article.author.image} alt={article.author.username} />
+        <img src={article.author.image} />
       </a>
       <div class="info">
         <a class="author" href={profileLink(article.author.username)}>

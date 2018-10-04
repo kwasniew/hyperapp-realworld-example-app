@@ -39,7 +39,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/saeed\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"saeed\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/saeed\\">saeed</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -55,7 +55,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/cuong123456\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"cuong123456\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/cuong123456\\">cuong123456</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -71,7 +71,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/joewhatuser\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"joewhatuser\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/joewhatuser\\">joewhatuser</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -90,7 +90,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/tuantuantuandz\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"tuantuantuandz\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/tuantuantuandz\\">tuantuantuandz</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -106,7 +106,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/drbuck10\\">
-                  <img src=\\"https://i.kinja-img.com/gawker-media/image/upload/s--VRgSmL1i--/c_scale,f_auto,fl_progressive,q_80,w_800/wsvqhc42bnocrsetkizw.jpg\\" alt=\\"drbuck10\\">
+                  <img src=\\"https://i.kinja-img.com/gawker-media/image/upload/s--VRgSmL1i--/c_scale,f_auto,fl_progressive,q_80,w_800/wsvqhc42bnocrsetkizw.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/drbuck10\\">drbuck10</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -122,7 +122,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/yop singh\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"yop singh\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/yop singh\\">yop singh</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -138,7 +138,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/testdsfsdfsdf\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"testdsfsdfsdf\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/testdsfsdfsdf\\">testdsfsdfsdf</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -154,7 +154,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/drc\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"drc\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/drc\\">drc</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -174,7 +174,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/kolibreath\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"kolibreath\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/kolibreath\\">kolibreath</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -190,7 +190,7 @@ exports[`global feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/qaudaffyazmi\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"qaudaffyazmi\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/qaudaffyazmi\\">qaudaffyazmi</a><span class=\\"date\\">Wed Jul 11 2018</span></div>
@@ -430,7 +430,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/testuser30\\">
-                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -446,7 +446,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/manikanta6264\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"manikanta6264\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/manikanta6264\\">manikanta6264</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -462,7 +462,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/testuser30\\">
-                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -480,7 +480,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/testuser30\\">
-                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -498,7 +498,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/testuser30\\">
-                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\" alt=\\"testuser30\\">
+                  <img src=\\"https://st2.depositphotos.com/3369547/11386/v/950/depositphotos_113863470-stock-illustration-avatar-man-icon-people-design.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/testuser30\\">testuser30</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -514,7 +514,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/kaweesha\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"kaweesha\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/kaweesha\\">kaweesha</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -530,7 +530,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/fgn\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"fgn\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/fgn\\">fgn</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -546,7 +546,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/bgiggus\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"bgiggus\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/bgiggus\\">bgiggus</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -562,7 +562,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/test234443\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"test234443\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/test234443\\">test234443</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -581,7 +581,7 @@ exports[`global feed pagination 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/qwertyzxcvb\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"qwertyzxcvb\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/qwertyzxcvb\\">qwertyzxcvb</a><span class=\\"date\\">Tue Jul 10 2018</span></div>
@@ -1173,7 +1173,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/uroskrunic\\">
-                  <img src=\\"https://images-na.ssl-images-amazon.com/images/I/617I2AGeW5L.jpg\\" alt=\\"uroskrunic\\">
+                  <img src=\\"https://images-na.ssl-images-amazon.com/images/I/617I2AGeW5L.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/uroskrunic\\">uroskrunic</a><span class=\\"date\\">Sun Jul 08 2018</span></div>
@@ -1209,7 +1209,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/jldiaz\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"jldiaz\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/jldiaz\\">jldiaz</a><span class=\\"date\\">Wed Jun 13 2018</span></div>
@@ -1228,7 +1228,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/huult\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Thu May 24 2018</span></div>
@@ -1264,7 +1264,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/huult\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Wed May 23 2018</span></div>
@@ -1300,7 +1300,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/huult\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Wed May 23 2018</span></div>
@@ -1336,7 +1336,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/huult\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Wed May 23 2018</span></div>
@@ -1372,7 +1372,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/huult\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"huult\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/huult\\">huult</a><span class=\\"date\\">Thu May 10 2018</span></div>
@@ -1408,7 +1408,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/RedFeet\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"RedFeet\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/RedFeet\\">RedFeet</a><span class=\\"date\\">Thu Apr 05 2018</span></div>
@@ -1428,7 +1428,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/tshepo\\">
-                  <img src=\\"http://res.cloudinary.com/htdnfcfy5/image/upload/v1519328877/thugg_and_lilly.jpg\\" alt=\\"tshepo\\">
+                  <img src=\\"http://res.cloudinary.com/htdnfcfy5/image/upload/v1519328877/thugg_and_lilly.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/tshepo\\">tshepo</a><span class=\\"date\\">Thu Feb 22 2018</span></div>
@@ -1448,7 +1448,7 @@ exports[`tag feed 1`] = `
             <div class=\\"article-preview\\">
               <div class=\\"article-meta\\">
                 <a href=\\"/profile/A3Nv3Dd5SW\\">
-                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\" alt=\\"A3Nv3Dd5SW\\">
+                  <img src=\\"https://static.productionready.io/images/smiley-cyrus.jpg\\">
                 </a>
                 <div class=\\"info\\">
                   <a class=\\"author\\" href=\\"/profile/A3Nv3Dd5SW\\">A3Nv3Dd5SW</a><span class=\\"date\\">Mon Jan 22 2018</span></div>
