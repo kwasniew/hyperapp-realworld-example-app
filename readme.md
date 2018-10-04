@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/kwasniew/hyperapp-realworld-example-app.svg?branch=master)](https://travis-ci.org/kwasniew/hyperapp-realworld-example-app)
+
 # ![RealWorld Example App](./logo.png)
 
 > ### Hyperapp codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld) spec and API.
