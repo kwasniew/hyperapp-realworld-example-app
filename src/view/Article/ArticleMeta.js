@@ -7,7 +7,7 @@ const ArticleMeta = ({ article, deleteArticle, canModify }) => {
   return (
     <div class="article-meta">
       <a href={profileLink(article.author.username)}>
-        <img src={article.author.image} alt={article.author.username} />
+        <img src={article.author.image} />
       </a>
 
       <div class="info">
