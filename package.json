@@ -4,7 +4,7 @@
     "build": "parcel build index.html && cp _redirects dist/",
     "test": "npm run test:fast & npm run test:slow",
     "test:fast": "jest --env=node src",
-    "test:slow": "jest test/component",
+    "test:slow": "cross-env TZ='Europe/Amsterdam' jest test/component",
     "coverage": "jest --coverage",
     "test:watch": "jest --watch",
     "format": "prettier --write \"{src,__tests__}/**/*.js\""
@@ -21,6 +21,7 @@
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "babel-plugin-transform-react-jsx": "6.24.1",
+    "cross-env": "5.2.0",
     "dom-testing-library": "3.6.0",
     "jest": "23.6.0",
     "jest-dom": "1.12.1",
