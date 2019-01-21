@@ -1,11 +1,13 @@
 import isMatch from "lodash.ismatch";
 
 const delay = ms => new Promise(resolve => setTimeout(() => resolve(), ms));
+const DEFAULT_HEADERS = new Map([["content-type", "application/json"]]);
 
 export const createFetch = (...interactions) => {
   const defaultResponse = data =>
     Promise.resolve({
       status: 200,
+      headers: DEFAULT_HEADERS,
       json() {
         return Promise.resolve(data);
       }
@@ -17,6 +19,7 @@ export const createFetch = (...interactions) => {
     } else {
       return Promise.resolve({
         status: val.status,
+        headers: DEFAULT_HEADERS,
         json() {
           return Promise.resolve(val.body);
         }

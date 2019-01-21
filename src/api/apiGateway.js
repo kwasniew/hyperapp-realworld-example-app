@@ -13,15 +13,20 @@ const authHeader = sessionRepository => {
     : {};
 };
 
+const isJson = response =>
+  response.headers.get("content-type").indexOf("application/json") !== -1;
+
 const configureFetch = (fetch, sessionRepository) => (url, options = {}) => {
   return fetch(
     API_ROOT + url,
     mergeDeepWith(concat, authHeader(sessionRepository), options)
   ).then(response => {
-    if (response.status === 200) {
-      return response.json();
-    } else {
-      return response.json().then(body => Promise.reject(body));
+    if (isJson(response)) {
+      if (response.status === 200) {
+        return response.json();
+      } else {
+        return response.json().then(body => Promise.reject(body));
+      }
     }
   });
 };

@@ -26,10 +26,12 @@ const LoggedInView = ({ currentUser, activePathname }) => (
       Home
     </NavItem>
     <NavItem activePathname={activePathname} path={NEW_EDITOR}>
-      <i class="ion-compose" />&nbsp;New Post
+      <i class="ion-compose" />
+      &nbsp;New Post
     </NavItem>
     <NavItem activePathname={activePathname} path={SETTINGS}>
-      <i class="ion-gear-a" />&nbsp;Settings
+      <i class="ion-gear-a" />
+      &nbsp;Settings
     </NavItem>
     <NavItem
       activePathname={activePathname}

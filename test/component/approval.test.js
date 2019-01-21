@@ -19,9 +19,9 @@ import {
   waitForElement
 } from "dom-testing-library";
 import "jest-dom/extend-expect";
-import {createLocalStorage} from "./localStorage";
-import {createFetch} from "./fetch";
-import {click, type, enter, elements, elementWithValue, element} from "./dom";
+import { createLocalStorage } from "./localStorage";
+import { createFetch } from "./fetch";
+import { click, type, enter, elements, elementWithValue, element } from "./dom";
 
 
 const setLocation = path => window.history.pushState(null, "", path);
@@ -39,14 +39,14 @@ const NAV = ".nav-link";
 const BUTTON = "button";
 const DISABLED_BUTTON = "button[disabled]";
 const ERRORS = ".error-messages > li";
-const USERNAME_INPUT = 'input[placeholder="Username"]';
-const EMAIL_INPUT = 'input[placeholder="Email"]';
-const PASSWORD_INPUT = 'input[placeholder="Password"]';
+const USERNAME_INPUT = "input[placeholder=\"Username\"]";
+const EMAIL_INPUT = "input[placeholder=\"Email\"]";
+const PASSWORD_INPUT = "input[placeholder=\"Password\"]";
 const USER_INFO = ".user-info";
-const ARTICLE_TITLE = 'input[placeholder="Article Title"]';
-const ARTICLE_DESCRIPTION = 'input[placeholder="What\'s this article about?"]';
-const ARTICLE_BODY = 'textarea[placeholder^="Write your article"]';
-const ARTICLE_TAGS = 'input[placeholder="Enter tags"]';
+const ARTICLE_TITLE = "input[placeholder=\"Article Title\"]";
+const ARTICLE_DESCRIPTION = "input[placeholder=\"What's this article about?\"]";
+const ARTICLE_BODY = "textarea[placeholder^=\"Write your article\"]";
+const ARTICLE_TAGS = "input[placeholder=\"Enter tags\"]";
 
 const withApp = ({ localStorage, fetch, initPath = "/" }) => async testBody => {
   document.body.innerHTML = "";
@@ -143,7 +143,6 @@ test("navigate to sign up", async () => {
 });
 
 test("sign up failure", async () => {
-  // given
   const localStorage = createLocalStorage();
   const fetch = createFetch([
     "/api/users",
@@ -257,7 +256,6 @@ test("log in failure", async () => {
 });
 
 test("log in success", async () => {
-  // given
   const localStorage = createLocalStorage();
   const fetch = createFetch(
     ["/api/tags", tags],
@@ -306,7 +304,6 @@ test("log in success", async () => {
 });
 
 test("user profile page with empty feed", async () => {
-  // given
   const localStorage = createLocalStorage();
   localStorage.setItem("session", JSON.stringify(loginSuccess.user));
   const fetch = createFetch(
@@ -344,7 +341,6 @@ test("user profile page with empty feed", async () => {
 });
 
 test("post creation failure", async () => {
-  // given
   const localStorage = createLocalStorage();
   localStorage.setItem("session", JSON.stringify(loginSuccess.user));
   const fetch = createFetch([
@@ -383,7 +379,6 @@ test("post creation failure", async () => {
 });
 
 test("post creation success", async () => {
-  // given
   const localStorage = createLocalStorage();
   localStorage.setItem("session", JSON.stringify(loginSuccess.user));
   const fetch = createFetch(
