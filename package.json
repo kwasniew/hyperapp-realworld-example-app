@@ -2,18 +2,19 @@
   "scripts": {
     "start": "parcel index.html --no-hmr --no-cache",
     "build": "parcel build index.html && cp _redirects dist/",
-    "test": "npm run test:fast & npm run test:slow",
+    "test": "npm run test:fast & npm run test:slow & npm run test:performance",
     "test:fast": "jest --env=node src",
     "test:slow": "cross-env TZ='Europe/Amsterdam' jest test/component",
     "coverage": "jest --coverage",
     "test:watch": "jest --watch",
+    "test:performance": "bundlesize",
     "format": "prettier --write \"{src,__tests__}/**/*.js\""
   },
   "dependencies": {
     "@hyperapp/logger": "0.5.0",
     "hyperapp": "1.2.9",
     "internal-nav-helper": "1.0.2",
-    "marked": "0.5.1",
+    "marked": "0.7.0",
     "ramda": "0.25.0"
   },
   "devDependencies": {
@@ -21,17 +22,24 @@
     "babel-plugin-transform-es2015-modules-commonjs": "6.26.2",
     "babel-plugin-transform-object-rest-spread": "6.26.0",
     "babel-plugin-transform-react-jsx": "6.24.1",
+    "bundlesize": "0.18.0",
     "cross-env": "5.2.0",
     "dom-testing-library": "3.6.0",
     "jest": "23.6.0",
     "jest-dom": "1.12.1",
     "lodash.ismatch": "4.4.0",
-    "parcel-bundler": "1.10.1",
+    "parcel-bundler": "1.12.3",
     "parcel-plugin-bundle-visualiser": "1.2.0",
     "prettier": "1.14.3",
     "pretty": "2.0.0"
   },
   "jest": {
     "testURL": "http://localhost/"
-  }
+  },
+  "bundlesize": [
+    {
+      "path": "./dist/*.js",
+      "maxSize": "50 kB"
+    }
+  ]
 }
