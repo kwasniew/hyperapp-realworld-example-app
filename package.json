@@ -7,7 +7,7 @@
     "test:slow": "cross-env TZ='Europe/Amsterdam' jest test/component",
     "coverage": "jest --coverage",
     "test:watch": "jest --watch",
-    "test:performance": "bundlesize",
+    "test:performance": "npm run build && bundlesize",
     "format": "prettier --write \"{src,__tests__}/**/*.js\""
   },
   "dependencies": {
